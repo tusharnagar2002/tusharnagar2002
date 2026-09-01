@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Tushar 👋
 
-<!--
-**tusharnagar2002/tusharnagar2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Open-source contributor learning by shipping — Python fixes, docs, and dev tooling.
 
-Here are some ideas to get you started:
+📍 Mumbai, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Recent work
+
+Getting started with open source, one focused PR at a time:
+
+- **[The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)** — fixed an inverted line-range bug in the GitLab/Gitea link builders and extracted a shared normalization helper onto the base provider class, with new regression tests.
+- **[eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)** — documented an undocumented audit config option (`EDUMFA_AUDIT_SQL_COLUMN_LENGTH`) in both the class docstring and the install reference docs.
+- **[wheelry/deep-skill-finder](https://github.com/wheelry/deep-skill-finder)** — added a `--dry-run` preview mode to the skill installer, reporting files, scripts, external URLs, env vars, and basic security notes before anything touches disk.
+
+## 🛠️ Currently focused on
+
+Python — widening out to other ecosystems as I go.
+
+## 📫 Reach me
+
+Open an issue or PR on any of my repos, or find me here on GitHub.
+
+---
+<sub>This README is a work in progress and updates as new contributions land.</sub>
