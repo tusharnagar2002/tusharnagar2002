@@ -12,10 +12,11 @@ Getting started with open source, one focused PR at a time:
 - **[eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)** — documented an undocumented audit config option (`EDUMFA_AUDIT_SQL_COLUMN_LENGTH`) in both the class docstring and the install reference docs.
 - **[wheelry/deep-skill-finder](https://github.com/wheelry/deep-skill-finder)** — added a `--dry-run` preview mode to the skill installer, reporting files, scripts, external URLs, env vars, and basic security notes before anything touches disk.
 - **[MetOffice/CMEW](https://github.com/MetOffice/CMEW)** — improved a confusing validation error message so it tells you how to fix it (`-O <site>`), not just that something's wrong.
+- **[vinhnguyenthanhdn/claude-jobs](https://github.com/vinhnguyenthanhdn/claude-jobs)** — fixed a silent bug where the scheduler's random start delay was capped at ~9 hours regardless of the configured value, and added the first end-to-end tests exercising that delay.
 
 ## 🛠️ Currently focused on
 
-Python — widening out to other ecosystems as I go.
+Python and JavaScript — widening out to other ecosystems as I go.
 
 ## 📫 Reach me
 
