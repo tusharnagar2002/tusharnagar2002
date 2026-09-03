@@ -4,6 +4,10 @@ Open-source contributor learning by shipping — Python fixes, docs, and dev too
 
 📍 Mumbai, India
 
+## 🚀 Projects
+
+- **[beachhead](https://github.com/tusharnagar2002/beachhead)** — a zero-dependency CLI that automates the setup before a contribution: fork, wait for the fork to become ready, clone, and check out a sensibly-named branch, in one command. 62 tests, CI passing on every push.
+
 ## 🌱 Recent work
 
 Getting started with open source, one focused PR at a time:
