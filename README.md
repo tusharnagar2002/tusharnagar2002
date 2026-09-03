@@ -7,6 +7,7 @@ Open-source contributor learning by shipping — Python fixes, docs, and dev too
 ## 🚀 Projects
 
 - **[beachhead](https://github.com/tusharnagar2002/beachhead)** — a zero-dependency CLI that automates the setup before a contribution: fork, wait for the fork to become ready, clone, and check out a sensibly-named branch, in one command. 62 tests, CI passing on every push.
+- **[ai-recon](https://github.com/tusharnagar2002/ai-recon)** — a zero-dependency CLI that checks a repo's AI-contribution policy (banned / disclosure-required / allowed / unclear) before you invest time contributing to it. 56 tests, validated against real projects' actual policies.
 
 ## 🌱 Recent work
 
