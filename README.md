@@ -8,6 +8,7 @@ Open-source contributor learning by shipping — Python fixes, docs, and dev too
 
 - **[beachhead](https://github.com/tusharnagar2002/beachhead)** — a zero-dependency CLI that automates the setup before a contribution: fork, wait for the fork to become ready, clone, and check out a sensibly-named branch, in one command. 62 tests, CI passing on every push.
 - **[ai-recon](https://github.com/tusharnagar2002/ai-recon)** — a zero-dependency CLI that checks a repo's AI-contribution policy (banned / disclosure-required / allowed / unclear) before you invest time contributing to it. 56 tests, validated against real projects' actual policies.
+- **[in-lane](https://github.com/tusharnagar2002/in-lane)** — a Claude Code plugin that keeps every code change scoped to exactly what was asked, with exceptions for security and data-loss issues that are never traded away for a smaller diff. `claude plugin validate --strict` passing in CI.
 
 ## 🌱 Recent work
 
