@@ -20,6 +20,7 @@ Getting started with open source, one focused PR at a time:
 - **[MetOffice/CMEW](https://github.com/MetOffice/CMEW)** — improved a confusing validation error message so it tells you how to fix it (`-O <site>`), not just that something's wrong.
 - **[vinhnguyenthanhdn/claude-jobs](https://github.com/vinhnguyenthanhdn/claude-jobs)** — fixed a silent bug where the scheduler's random start delay was capped at ~9 hours regardless of the configured value, and added the first end-to-end tests exercising that delay.
 - **[mycelium-labs/mycelium](https://github.com/mycelium-labs/mycelium)** — pinned every third-party GitHub Action to an immutable commit SHA (with readable version comments) and added the missing Dependabot config so the pins stay maintainable.
+- **[Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow)** — documented 7 metadata keys a data importer was silently writing that FORMAT.md never named, including 6 that gate a correctness-critical resume decision.
 
 ## 🛠️ Currently focused on
 
