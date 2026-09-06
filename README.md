@@ -6,11 +6,13 @@ Open-source contributor learning by shipping — Python fixes, docs, and dev too
 
 ## 🚀 Projects
 
+- **[Second Look](https://tusharnagar2002.github.io/second-look/)** — paste a suspicious text or email, get a plain-language scam check. Not a dev tool — built for the people in your life who get the "your account will be suspended" texts. Nothing ever leaves your device: no server, no upload, entirely offline. 36 tests including real DOM-level checks and automated accessibility (WCAG AA) contrast validation.
+
 A small suite tackling the same real gap from three angles — as AI agents contribute more code, there's no standard way to find a repo's policy on it, enforce good behavior while working, or verify what actually happened afterward:
 
 - **[ai-recon](https://github.com/tusharnagar2002/ai-recon)** — finds a repo's AI-contribution policy (banned / disclosure-required / allowed / unclear) before you invest time contributing to it. 56 tests, validated against real projects' actual policies.
 - **[in-lane](https://github.com/tusharnagar2002/in-lane)** — a Claude Code plugin that keeps every code change scoped to exactly what was asked, with exceptions for security and data-loss issues that are never traded away for a smaller diff. `claude plugin validate --strict` passing in CI.
-- **[git-vouch](https://github.com/tusharnagar2002/git-vouch)** — verifiable attestation for AI-assisted commits: a computed (not hand-typed) diff stat in a git trailer, protected by the commit's own signature. Catches a hand-tampered claim; a real signed-commit test during development caught and fixed a bug where amending silently dropped signatures.
+- **[git-vouch](https://github.com/tusharnagar2002/git-vouch)** — verifiable attestation for AI-assisted commits: a computed (not hand-typed) diff stat in a git trailer, protected by the commit's own signature.
 
 Also: **[beachhead](https://github.com/tusharnagar2002/beachhead)** — a zero-dependency CLI that automates fork → wait → clone → branch, the setup before a contribution. 62 tests, CI passing on every push.
 
