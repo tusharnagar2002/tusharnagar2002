@@ -6,6 +6,7 @@ Open-source contributor learning by shipping — Python fixes, docs, and dev too
 
 ## 🚀 Projects
 
+- **[inbox-archaeology](https://github.com/tusharnagar2002/inbox-archaeology)** — finds the accounts you've forgotten you have, by scanning an email export (Google Takeout) locally for signup emails. No OAuth, no upload, no server — entirely offline. 59 tests, including real bugs caught by testing against actual mbox files rather than mocks.
 - **[Second Look](https://tusharnagar2002.github.io/second-look/)** — paste a suspicious text or email, get a plain-language scam check. Built for non-developers. Nothing ever leaves your device. 36 tests including automated accessibility (WCAG AA) validation.
 - **[Is This Phishing?](https://github.com/tusharnagar2002/is-this-phishing)** — a browser extension that checks the site you're on for phishing patterns automatically, entirely locally, with zero network requests. 53 tests; a real security issue was caught by Mozilla's official extension linter during development and fixed structurally, not patched over.
 
