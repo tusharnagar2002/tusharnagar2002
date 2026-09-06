@@ -6,7 +6,8 @@ Open-source contributor learning by shipping — Python fixes, docs, and dev too
 
 ## 🚀 Projects
 
-- **[Second Look](https://tusharnagar2002.github.io/second-look/)** — paste a suspicious text or email, get a plain-language scam check. Not a dev tool — built for the people in your life who get the "your account will be suspended" texts. Nothing ever leaves your device: no server, no upload, entirely offline. 36 tests including real DOM-level checks and automated accessibility (WCAG AA) contrast validation.
+- **[Second Look](https://tusharnagar2002.github.io/second-look/)** — paste a suspicious text or email, get a plain-language scam check. Built for non-developers. Nothing ever leaves your device. 36 tests including automated accessibility (WCAG AA) validation.
+- **[Is This Phishing?](https://github.com/tusharnagar2002/is-this-phishing)** — a browser extension that checks the site you're on for phishing patterns automatically, entirely locally, with zero network requests. 53 tests; a real security issue was caught by Mozilla's official extension linter during development and fixed structurally, not patched over.
 
 A small suite tackling the same real gap from three angles — as AI agents contribute more code, there's no standard way to find a repo's policy on it, enforce good behavior while working, or verify what actually happened afterward:
 
